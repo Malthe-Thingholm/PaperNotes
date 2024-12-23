@@ -14,7 +14,7 @@ Contents:
 ## 2024 DL Papers
 
 - [Making Secure Software Insecure without Changing Its Code: The Possibilities and Impacts of Attacks on the DevOps Pipeline:](https://arxiv.org/pdf/2201.12879)
-
+- [Cloud Native Robotic Applications with GPU Sharing on Kubernetes](https://arxiv.org/pdf/2210.03936)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
