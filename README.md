@@ -2,7 +2,7 @@ Repo format forked from [Daniel Takeshi][1] to document my reading of papers, ro
 
 Contents:
 
-- [Deep Learning](#deep-learning)
+- [Deep Learning](#K8s)
     - [2025 Papers](#2025-dl-papers)
     - [2024 Papers](#2024-dl-papers)
 
