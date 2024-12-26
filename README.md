@@ -17,5 +17,6 @@ Contents:
 - [Cloud Native Robotic Applications with GPU Sharing on Kubernetes](https://arxiv.org/pdf/2210.03936)
 - [Technical Report: Performance Comparison of Service Mesh Frameworks: the MTLS Test Case](https://arxiv.org/pdf/2411.02267)
 - [Developing a Process in Architecting Microservice Infrastructure with Docker, Kubernetes, and Istio](https://arxiv.org/pdf/1911.02275)
-
+- [Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network](https://arxiv.org/pdf/2305.05935)
+- 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
