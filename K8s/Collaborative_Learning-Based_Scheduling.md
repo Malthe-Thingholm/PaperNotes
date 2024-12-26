@@ -1,4 +1,4 @@
-#Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network
+# Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network
 Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network [arXiv:2305.05935](https://arxiv.org/abs/2305.05935)
 
 Super high quality paper. Maybe dubious conclusions they reach. The premise is that computing might be split between a pure-Cloud based setup and some semi-local machines (Edge Computing), where typically you would want the local machines to constantly be dedicated to the task at hand, and then scale to the more latency-heavy Cloud machines when local latency increases. 
