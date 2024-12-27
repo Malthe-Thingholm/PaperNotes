@@ -18,5 +18,7 @@ Contents:
 - [Technical Report: Performance Comparison of Service Mesh Frameworks: the MTLS Test Case](https://arxiv.org/pdf/2411.02267)
 - [Developing a Process in Architecting Microservice Infrastructure with Docker, Kubernetes, and Istio](https://arxiv.org/pdf/1911.02275)
 - [Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network](https://arxiv.org/pdf/2305.05935)
+- [Performance Analysis of Zero-Trust multi-cloud](https://arxiv.org/pdf/2105.02334)
 - 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
+ 
