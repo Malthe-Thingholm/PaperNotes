@@ -19,6 +19,6 @@ Contents:
 - [Developing a Process in Architecting Microservice Infrastructure with Docker, Kubernetes, and Istio](https://arxiv.org/pdf/1911.02275)
 - [Collaborative Learning-Based Scheduling for Kubernetes-Oriented Edge-Cloud Network](https://arxiv.org/pdf/2305.05935)
 - [Performance Analysis of Zero-Trust multi-cloud](https://arxiv.org/pdf/2105.02334)
-- 
+- [Bunk8s: Enabling Easy Integration Testing of Microservices in Kubernetes](https://arxiv.org/pdf/2207.06811)
 [1]:https://github.com/DanielTakeshi/Paper_Notes
  
