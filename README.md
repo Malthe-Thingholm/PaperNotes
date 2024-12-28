@@ -1,3 +1,5 @@
+# Deprecated, view 'PaperNotes2' for newer notes
+
 Repo format forked from [Daniel Takeshi][1] to document my reading of papers, roughly sorted into topics in folders for any notes and kept track of in this ReadMe.
 
 Contents:
